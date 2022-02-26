@@ -1,8 +1,27 @@
-- 👋 Hi, I’m @grobiglio
-- 👀 I’m interested in Sofware Development
-- 🌱 I’m currently learning: HTML, CSS, Python, Django, Flask, Javascript, SQL (Full Stack web development); and Machine Learning. 
-- 💞️ For the time being I'm enjoying learning the languages I mentioned; besides I'm developing some apps for my own usage. 
-- 📫 How to reach me: Click here 👉 https://grobiglio.github.io/cv/index.html
+👋 Hi, I’m **Guillermo Robiglio**
+--
+- 💻 I'm a hobbyist programmer
+- 💾 I'm a budding data scientist
+- 👀 I’m interested in Artificial Intelligence
+- 🌱 I’m always learning:
+  - HTML
+  - CSS
+  - Javascript
+  - Linux
+  - Databases (SQL and No SQL)
+  - **Python** and some of its libraries
+    - Pandas
+    - Numpy
+    - Matplotlib
+    - Seaborn
+    - Flask
+  - Data Science and Machine Learning
+- 💞️ For the time being I'm enjoying learning the languages and disciplines I mentioned; besides I'm developing some apps for my own usage. 
+- 😀 ¿Do you whant to know about mi? Click here 👉 https://grobiglio.github.io/cv/index.html
+- 📫 How to reach me
+  - By e-mail: grobiglio@gmail.com
+  - Instagram: [g.robiglio](https://www.instagram.com/g.robiglio/)
+  - Telegram: @grobiglio
 
 <!---
 grobiglio/grobiglio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
