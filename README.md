@@ -3,7 +3,7 @@
 - 💻 I'm a hobbyist programmer
 - 💾 I'm a budding data scientist
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m always learning:
+- 🌱 I’m learning:
   - HTML
   - CSS
   - Javascript
@@ -19,9 +19,10 @@
 - 💞️ For the time being I'm enjoying learning the languages and disciplines I mentioned; besides I'm developing some apps for my own usage. 
 - 😀 ¿Do you whant to know about mi? Click here 👉 https://grobiglio.github.io/cv/index.html
 - 📫 How to reach me
-  - By e-mail: grobiglio@gmail.com
+  - Email: grobiglio@gmail.com
   - Instagram: [g.robiglio](https://www.instagram.com/g.robiglio/)
   - Telegram: @grobiglio
+  - Twiter: [@grobiglio](https://twitter.com/grobiglio)
 
 <!---
 grobiglio/grobiglio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
