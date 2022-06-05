@@ -17,7 +17,7 @@
     - Flask
   - Data Science and Machine Learning
 - 💞️ For the time being I'm enjoying learning the languages and disciplines I mentioned; besides I'm developing some apps for my own usage. 
-- 😀 ¿Do you whant to know about mi? Click here 👉 https://grobiglio.github.io/cv/index.html
+- 😀 ¿Do you whant to know about mi? Visit my web site 👉 https://ingg.ar
 - 📫 How to reach me
   - Email: grobiglio@gmail.com
   - Instagram: [g.robiglio](https://www.instagram.com/g.robiglio/)
